@@ -6,16 +6,6 @@ I started with **C++** and am currently learning **HTML, CSS, and JavaScript** t
 
 ---
 
-#### 🚀 Projects
-
-CPP_Profolio - A portfolio website (HTML/CSS) showcasing my C++ projects — built while learning the fundamentals of web development.
-
-UnitSync - A C++ project for a ROTC Attendance Management System.
-
-UnitSync Landing Page - A landing page concept for UnitSync, presenting it as a real-world product. Built to practice and reinforce HTML/CSS concepts.
-
----
-
 #### 🛠️ Skills
 
 - **Languages:** C++
